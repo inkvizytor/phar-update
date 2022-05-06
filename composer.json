@@ -1,5 +1,5 @@
 {
-  "name": "deployer/phar-update",
+  "name": "smok55453/phar-update",
   "description": "Integrates Phar Update to Symfony Console.",
   "keywords": [
     "phar",
