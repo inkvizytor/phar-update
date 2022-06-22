@@ -1,5 +1,5 @@
 {
-  "name": "smok55453/phar-update",
+  "name": "inkvizytor/phar-update",
   "description": "Integrates Phar Update to Symfony Console.",
   "keywords": [
     "phar",
